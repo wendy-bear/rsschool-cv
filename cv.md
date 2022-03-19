@@ -70,7 +70,7 @@ function highAndLow(numbers) {
 
 ## **Courses:**
 
-- IT Girl school (completed)
+- IT Girl school (completed)\
   [Сertificate](https://i.yapx.ru/RNwig.jpg)
 - RS Schools Course «JavaScript/Front-end» (in progress)
 
