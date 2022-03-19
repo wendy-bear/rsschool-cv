@@ -1,1 +1,1 @@
-# rsschool-cv
+https://wendy-bear.github.io/rsschool-cv/
